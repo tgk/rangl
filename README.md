@@ -36,5 +36,5 @@ https://github.com/tgk/rangl
 from maiden:
 
 ```
-;install https://github.com/tgk/rangle
+;install https://github.com/tgk/rangl
 ```
